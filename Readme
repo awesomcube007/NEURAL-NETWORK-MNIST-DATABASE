@@ -1,0 +1,4 @@
+    NEURAL-NETWORK-MNIST-DATABASE
+
+This project consists of a neural netowrk model trained from scratch that classifies the MNIST fashion dataset.
+The model classfies the images into its relevant category . This model was made with no readymade ML libraries like pytorch or tensorflow.
